@@ -1,9 +1,9 @@
 <?php
 /**
- * Theme Update Checker Library 1.2
+ * 主题更新检查程序库 1.2
  * http://w-shadow.com/
  * 
- * Copyright 2012 Janis Elsts
+ * 版权 2012 Janis Elsts
  * Licensed under the GNU GPL license.
  * http://www.gnu.org/licenses/gpl.html
  */
