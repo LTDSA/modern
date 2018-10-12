@@ -2,9 +2,9 @@
 <img src="https://img.flyhigher.top/top.jpg" alt="MDx">
 </p>
 
-<h1 align="center"><a href="https://mdx.flyhigher.top" target="_blank">MDx</a></h1>
+<h1 align="center"><a href="https://mdx.flyhigher.top" target="_blank">MODERN</a></h1>
 
-> 轻于形，悦于心
+> 设计的一小步，WordPress的一大步。
 
 <p align="center">
 <img alt="Version" src="https://img.shields.io/badge/version-1.8.3-3f51b5.svg?style=flat-square"/>
